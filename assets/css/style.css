@@ -1096,7 +1096,7 @@ body.nav-active { overflow: hidden; }
 \*-----------------------------------*/
 
 .testi {
-  padding-block-end: 340px;
+  padding-block-end: 30px;
   position: static;
 }
 
@@ -1276,7 +1276,7 @@ textarea.input-field {
   #FOOTER
 \*-----------------------------------*/
 
-.footer-top { margin-block-end: 70px; }
+.footer-top { margin-block-end: 10px; }
 
 .footer-brand {
   position: relative;
