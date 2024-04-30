@@ -685,7 +685,7 @@ body.nav-active { overflow: hidden; }
 .navbar-link .span { transition: var(--transition-1); }
 
 .navbar-link:is(:hover, :focus-visible, .active) .span {
-  color: var(--gold-crayola);
+  color: var(--quick-silver);
   transform: translateX(20px);
 }
 
